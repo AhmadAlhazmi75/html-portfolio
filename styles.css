@@ -1,0 +1,46 @@
+body, html{
+    background-color: #FFEAD2;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    margin: 0px;
+}
+
+.name{
+    
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+      
+}
+.sentence{
+    
+    font-weight: bold;
+    font-family: 'Libre Baskerville', serif;
+    color: #8294C4;
+    
+
+}
+span{
+    text-decoration:#CD1818 wavy underline ;
+}
+
+.btn{
+    background-color: #8294C4;
+}
+.link{
+    color:#ACB1D6;
+    font-weight: 900;
+    text-decoration: wavy underline #8294C4;
+}
+.putitbold{
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.special{
+    background-color:#AFD3E2;
+}
+.programmerWord{
+    text-align: left;
+}
+#footer{
+    background-color:#AFD3E2 ;
+}
